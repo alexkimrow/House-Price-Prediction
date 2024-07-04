@@ -67,9 +67,9 @@ The dataset contains features like coordinates, median age, total rooms, total b
 ## Graphs and Visualizations
 
 1. **Histograms** of feature distributions before and after transformation.
-   ![Alt text](images/histogram.png)
+   ![Alt text](images/histogram_2.png)
 2. **Correlation Heatmap** showing the relationship between features and the target variable.
-   ![Alt text](images/heat_1.png)
+   ![Alt text](images/heat_3.png)
 3. **Scatter Plot** of house values based on coordinates, colored by price.
    ![Alt text](images/scatterplot.png)
 
